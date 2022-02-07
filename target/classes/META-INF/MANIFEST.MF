@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: santinig
+Build-Jdk: 15.0.2
+Class-Path: lib/commons-lang-2.6.jar lib/commons-lang3-3.0.jar
+Main-Class: it.prometeia.App
+Created-By: Maven Integration for Eclipse
+
