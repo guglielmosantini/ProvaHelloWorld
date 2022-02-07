@@ -10,20 +10,14 @@ import org.apache.commons.lang3.StringUtils;
  */
 public class App 
 {
-<<<<<<< HEAD
-=======
+
     //private static Scanner sca;
 
 	
->>>>>>> feature/myfeat
     private static Scanner sca;
 
 	public static void main( String[] args )
     {
-<<<<<<< HEAD
-=======
-		
->>>>>>> feature/myfeat
         sca = new Scanner(System.in);
         System.out.println( "Hello World!" );
         String string= sca.next();
